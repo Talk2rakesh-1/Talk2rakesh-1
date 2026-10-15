@@ -8,6 +8,17 @@ My portfolio demonstrates SwiftUI and Swift Concurrency, offline-first mobile de
 
 ### Native iOS
 
+#### [OutageKit](https://github.com/Talk2rakesh-1/outage-kit-ios)
+
+An offline SwiftUI household supply tracker with user-selected stock targets and expiry dates.
+
+- Validated, versioned JSON storage with atomic writes and iOS file protection
+- Eight core unit tests; native simulator-SDK builds verified
+- Search, editing, confirmed deletion, and explicit storage-failure handling
+- Live simulator, device, and accessibility validation remain documented follow-ups
+
+[![OutageKit CI](https://github.com/Talk2rakesh-1/outage-kit-ios/actions/workflows/ci.yml/badge.svg)](https://github.com/Talk2rakesh-1/outage-kit-ios/actions/workflows/ci.yml)
+
 #### [PrivateMark](https://github.com/Talk2rakesh-1/private-mark-ios)
 
 An on-device SwiftUI utility that reviews text for common sensitive-data patterns and creates a sanitized copy without sending content to a backend.
@@ -31,6 +42,17 @@ An offline-capable SwiftUI app for official NHTSA vehicle safety-recall searches
 [![Recall Ready CI](https://github.com/Talk2rakesh-1/recall-ready-ios/actions/workflows/ci.yml/badge.svg)](https://github.com/Talk2rakesh-1/recall-ready-ios/actions/workflows/ci.yml)
 
 ### Applied and Agentic AI
+
+#### [QueueCompass](https://github.com/Talk2rakesh-1/queue-compass)
+
+A local machine-learning CLI for human-reviewed support-ticket routing with explicit abstention.
+
+- Multinomial Naive Bayes, word-level evidence, and bounded JSON inputs
+- Eleven tests, synthetic evaluation, model card, and no runtime dependencies
+- CI, full-history secret scanning, and dependency auditing
+- Small synthetic results are regression checks, not production accuracy claims
+
+[![QueueCompass CI](https://github.com/Talk2rakesh-1/queue-compass/actions/workflows/ci.yml/badge.svg)](https://github.com/Talk2rakesh-1/queue-compass/actions/workflows/ci.yml)
 
 #### [ChangeLens](https://github.com/Talk2rakesh-1/policy-change-lens)
 
