@@ -8,6 +8,15 @@ My portfolio demonstrates SwiftUI and Swift Concurrency, offline-first mobile de
 
 ### Native iOS
 
+#### [ContrastBench](https://github.com/Talk2rakesh-1/contrast-bench-ios)
+
+A native SwiftUI workbench for opaque sRGB color-pair contrast, text previews, and shareable reports.
+
+- Full-precision AA/AAA threshold decisions with validated hex input
+- Eight core tests, native iOS build and analysis, and a CI UI smoke test
+- No runtime dependencies, persistence, or backend; broader accessibility validation remains manual
+
+
 #### [OutageKit](https://github.com/Talk2rakesh-1/outage-kit-ios)
 
 An offline SwiftUI household supply tracker with user-selected stock targets and expiry dates.
@@ -42,6 +51,15 @@ An offline-capable SwiftUI app for official NHTSA vehicle safety-recall searches
 [![Recall Ready CI](https://github.com/Talk2rakesh-1/recall-ready-ios/actions/workflows/ci.yml/badge.svg)](https://github.com/Talk2rakesh-1/recall-ready-ios/actions/workflows/ci.yml)
 
 ### Applied and Agentic AI
+
+#### [DriftLedger](https://github.com/Talk2rakesh-1/drift-ledger)
+
+A local numeric anomaly-modeling and batch-monitoring CLI for ML inputs.
+
+- Robust median/MAD baselines, explicit zero-scale fallbacks, and Jensen–Shannon divergence
+- Twelve tests, bounded JSON, strict typing, security scans, and no runtime dependencies
+- Original synthetic fixtures; flags require review and do not prove model-quality degradation
+
 
 #### [QueueCompass](https://github.com/Talk2rakesh-1/queue-compass)
 
