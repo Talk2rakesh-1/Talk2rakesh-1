@@ -8,6 +8,15 @@ My portfolio demonstrates SwiftUI and Swift Concurrency, offline-first mobile de
 
 ### Native iOS
 
+#### [OverlapWindow](https://github.com/Talk2rakesh-1/overlap-window-ios)
+
+A native SwiftUI meeting-time planner for declared local work hours across time zones.
+
+- Local weekday and daylight-saving-aware checks, overlap suggestions, and shareable proposals
+- Eight core tests, native build and static analysis; detailed verification limits in the repository
+- No account, calendar permission, backend, or third-party runtime dependency
+
+
 #### [ContrastBench](https://github.com/Talk2rakesh-1/contrast-bench-ios)
 
 A native SwiftUI workbench for opaque sRGB color-pair contrast, text previews, and shareable reports.
@@ -51,6 +60,15 @@ An offline-capable SwiftUI app for official NHTSA vehicle safety-recall searches
 [![Recall Ready CI](https://github.com/Talk2rakesh-1/recall-ready-ios/actions/workflows/ci.yml/badge.svg)](https://github.com/Talk2rakesh-1/recall-ready-ios/actions/workflows/ci.yml)
 
 ### Applied and Agentic AI
+
+#### [LabelBudget](https://github.com/Talk2rakesh-1/label-budget)
+
+A local active-learning CLI that selects feature-vector examples for human annotation.
+
+- Nearest-neighbor entropy, greedy diversity, deterministic selection and bounded JSON
+- Thirteen tests, strict typing, static security analysis and dependency audits
+- Original synthetic fixtures; no calibrated-confidence or annotation-savings claims
+
 
 #### [DriftLedger](https://github.com/Talk2rakesh-1/drift-ledger)
 
